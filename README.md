@@ -14,4 +14,7 @@
 - _Obs: Vale lembrar que se para base - Fedora o que muda:_  
 ```  
   sudo dnf install git p7zip p7zip-plugins python3-pip python3-wxpython4 && sudo pip3 install WoeUSB-ng
-```
+```  
+<img src="https://github.com/Brito-Response/alicate_chines/blob/main/img/bootavel.png" width="400" height="200" />
+
+## 
